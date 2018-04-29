@@ -1,0 +1,2 @@
+Error rate, correctly mapped reads (%):  0.97
+Error rate, incorrectly mapped reads (%):  0.83
